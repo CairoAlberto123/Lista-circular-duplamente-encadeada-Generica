@@ -1,7 +1,3 @@
-Aqui está uma sugestão de descrição para o seu repositório no GitHub:
-
----
-
 # Lista Circular Duplamente Encadeada em C++
 
 Este repositório contém a implementação de uma **lista circular duplamente encadeada genérica** em **C++**, oferecendo diversas operações essenciais, como inserção, remoção, movimentação interna e deslocamento de nós entre listas.
