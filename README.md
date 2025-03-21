@@ -33,9 +33,11 @@ Clone o repositório:
 https://github.com/CairoAlberto123/Lista-circular-duplamente-encadeada-Generica.git
 
 
-Compile e execute o código:              
-g++ -std=c++11 nome_do_arquivo.cpp -o executavel
-./executavel
+Compile e execute o código:    
+
+`// -o2 otimização do codigo aumenta o tempo de compilação, -march=native Usa as instruções específicas do seu processador, ambas são opcionais         
+g++ -std=c++11 -O2 -march=native ListaGenericaDE.cpp -o executavel 
+./executavel`
 
 
 ## 📄 Licença
